@@ -29,7 +29,7 @@
 - 요청 패킷을 받고 Broadcasting
   ![broadcasing](https://github.com/hanmin0512/Concept_ARP/assets/37041208/01dd9d04-29ef-4783-8bc2-c61739f758ba)
 
-- 호스트B가 호스트A에게 유니케스팅
+- 호스트B가 자신의 MAC주소를 Sender Hardware address부분에 기입하여 호스트A에게 유니케스팅
   ![Unicast](https://github.com/hanmin0512/Concept_ARP/assets/37041208/c4f66357-a7cc-45db-baf8-a53693b4e804)
 
 - 이후 호스트 A와 B는 통신이 가능해진다.
